@@ -1,0 +1,5 @@
+# Ignore draw.io temporary/backup files
+.*.drawio.bkp
+
+# Ignore Mac files
+**/.DS_Store
